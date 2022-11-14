@@ -1,8 +1,7 @@
 # MAMA_Learning_Platform
-My Software Engineering Final Year Project Built in the Unity Game Engine with C#
+Software Engineering Project Built in the Unity Game Engine with C#
 ![MAMA Learning Platform Splash Screen](https://user-images.githubusercontent.com/41923209/178929427-e44af893-479d-45c5-bda5-cfaef9a419d6.png)
 
-A Great Thanks to my Family, Makerere University, our Supervisor Mr Alex Mwotil and Dr Joab Agaba and my collegues that made it possible to have our Platform Developed.
 ![Home Screen](https://user-images.githubusercontent.com/41923209/178930222-412f8e8c-141b-4236-8de5-3d553905e49b.png)
 
 We had a motivation from the little effort put into developing Applications to help Pre Pimary children with their learning process.
@@ -25,9 +24,3 @@ MAMA Learning Platform has a number of features, the screenshots below show some
 ![Spelling Game](https://user-images.githubusercontent.com/41923209/178931555-33b71227-6011-4f83-ba1e-92f9e5dea950.png)
 ![Mathematics Quiz Game](https://user-images.githubusercontent.com/41923209/178931567-b400f859-611d-4f8e-8d90-0b56dbb6713f.png)
 
-Last but not least, the Development Team:
-![Credits](https://user-images.githubusercontent.com/41923209/178932685-6060d397-3753-4b71-a34f-4511522fb47c.png)
-
-For More Information:
-WhatsApp and Contact: +256 752 719 320
-Email: allantusiime@gmail.com
